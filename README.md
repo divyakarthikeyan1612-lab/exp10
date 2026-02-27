@@ -67,6 +67,9 @@ RegisterNumber:  212225040084
 ## Output:
 ![K Means Clustering for Customer Segmentation](sam.png)
 
+<img width="1068" height="607" alt="image" src="https://github.com/user-attachments/assets/85e2fb4f-b456-49d8-9ab4-88c2970ce235" />
+
+
 <img width="859" height="594" alt="image" src="https://github.com/user-attachments/assets/b490b859-5da2-4c19-b21c-a8e445a51102" />
 
 
